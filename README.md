@@ -7,7 +7,7 @@ Each level has a different set of patterns. Matching patterns by grouping blocks
   - simultaneous combo: match multiple nonoverlapping patterns with a single move;
   - overlapping combo: match multiple overlapping patterns with a single move;
   - chain combo: match a pattern that results in blocks falling and forming more matches.
-Blocks marked with an 'O' can form patterns normally but will not be removed unless they are part of an overlapping combo.
+Blocks marked with an 'O' can form matches normally but will not be removed unless they are part of an overlapping combo.
 
 Controls:
   - mouse-over:           select row and column
